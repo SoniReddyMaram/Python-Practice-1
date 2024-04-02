@@ -1,1 +1,1 @@
-Python Practice 1
+Here you can find a basic Python Practice Problems.
